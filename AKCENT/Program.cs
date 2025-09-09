@@ -15,7 +15,7 @@ namespace AKCENT
         private static void Main()
         {
             var context = new AkcentApplicationContext();
-            new InitData().Create();
+    
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new Form1(context));
