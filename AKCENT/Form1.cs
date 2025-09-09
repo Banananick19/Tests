@@ -92,7 +92,8 @@ namespace AKCENT
                 .Include(p => p.Post)
                 .Where(p => _depToSearch == null || p.Dep.Name == _depToSearch)
                 .Where(p => _statusToSearch == null || p.Status.Name == _statusToSearch)
-                .Where(p => _postToSearch == null || p.Post.Name == _postToSearch).ToList();
+                .Where(p => _postToSearch == null || p.Post.Name == _postToSearch).ToList()
+                .Where(p => string.IsNullOrEmpty(_textSearch) || p.GetFullName().ToLower().Contains(_textSearch.ToLower())).ToList();
             var i = 0;
             foreach (var person in persons)
             {
