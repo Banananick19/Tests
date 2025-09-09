@@ -1,0 +1,14 @@
+C:\Users\andrey\RiderProjects\AKCENT\AKCENT.Cor\obj\Debug\AKCENT.Cor.csproj.AssemblyReference.cache
+C:\Users\andrey\RiderProjects\AKCENT\AKCENT.Cor\obj\Debug\AKCENT.Cor.csproj.CoreCompileInputs.cache
+C:\Users\andrey\RiderProjects\AKCENT\AKCENT.Cor\bin\Debug\AKCENT.Cor.dll.config
+C:\Users\andrey\RiderProjects\AKCENT\AKCENT.Cor\bin\Debug\AKCENT.Cor.dll
+C:\Users\andrey\RiderProjects\AKCENT\AKCENT.Cor\bin\Debug\AKCENT.Cor.pdb
+C:\Users\andrey\RiderProjects\AKCENT\AKCENT.Cor\bin\Debug\AKCENT.Domain.dll
+C:\Users\andrey\RiderProjects\AKCENT\AKCENT.Cor\bin\Debug\EntityFramework.dll
+C:\Users\andrey\RiderProjects\AKCENT\AKCENT.Cor\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\andrey\RiderProjects\AKCENT\AKCENT.Cor\bin\Debug\AKCENT.Domain.pdb
+C:\Users\andrey\RiderProjects\AKCENT\AKCENT.Cor\bin\Debug\EntityFramework.xml
+C:\Users\andrey\RiderProjects\AKCENT\AKCENT.Cor\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\andrey\RiderProjects\AKCENT\AKCENT.Cor\obj\Debug\AKCENT.Cor.csproj.Up2Date
+C:\Users\andrey\RiderProjects\AKCENT\AKCENT.Cor\obj\Debug\AKCENT.Cor.dll
+C:\Users\andrey\RiderProjects\AKCENT\AKCENT.Cor\obj\Debug\AKCENT.Cor.pdb

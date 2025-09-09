@@ -1,0 +1,6 @@
+C:\Users\andrey\RiderProjects\AKCENT\AKCENT.Domain\bin\Debug\AKCENT.Domain.dll
+C:\Users\andrey\RiderProjects\AKCENT\AKCENT.Domain\bin\Debug\AKCENT.Domain.pdb
+C:\Users\andrey\RiderProjects\AKCENT\AKCENT.Domain\obj\Debug\AKCENT.Domain.csproj.AssemblyReference.cache
+C:\Users\andrey\RiderProjects\AKCENT\AKCENT.Domain\obj\Debug\AKCENT.Domain.csproj.CoreCompileInputs.cache
+C:\Users\andrey\RiderProjects\AKCENT\AKCENT.Domain\obj\Debug\AKCENT.Domain.dll
+C:\Users\andrey\RiderProjects\AKCENT\AKCENT.Domain\obj\Debug\AKCENT.Domain.pdb

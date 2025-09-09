@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "kJARIzS11v6SqwD/MDCe8u7LWHPuaTSZuKNHBB9xDrai2mTVbkNyLWNJeJNRHIcndlGOI58FUjFSZ2YD/eFDzA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\andrey\\RiderProjects\\AKCENT\\AKCENT\\AKCENT.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\andrey\\.nuget\\packages\\entityframework\\6.5.1\\entityframework.6.5.1.nupkg.sha512"
+  ],
+  "logs": []
+}
